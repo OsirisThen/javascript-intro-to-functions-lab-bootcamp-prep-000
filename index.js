@@ -11,11 +11,10 @@ function whisper(string) {
   return l;
 }
 
+
 function logShout(string) {
-  var uppercase = string;
-  if(string.toUpperCase() === string){
       console.log(shout(string))
-  }
+
 }
 
 function logWhisper(string) {
