@@ -18,11 +18,8 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  var lowercase = string;
-  if(string.toLowerCase() === string){
       console.log(string)
-  }
-
+  
 }
 
 
